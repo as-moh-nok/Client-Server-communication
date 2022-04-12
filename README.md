@@ -1,2 +1,2 @@
-# Client-Server-communication
+# ClientServer
 uart communication between two arduino
